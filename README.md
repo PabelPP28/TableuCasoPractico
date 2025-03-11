@@ -12,4 +12,4 @@ En este analisis de la compañia SRL podemos abservar gracias a analisi explorat
 #de cada uno de los criterios que se tomaron al momento de hacer el analis general.
 
 #VISUALIZACION DEL ANALISIS
-#https://public.tableau.com/app/profile/pabel.paz/viz/Practica0_17342057910570/Dashboard2?publish=yes
+https://public.tableau.com/app/profile/pabel.paz/viz/Practica0_17342057910570/Dashboard2?publish=yes
