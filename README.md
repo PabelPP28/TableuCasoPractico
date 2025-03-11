@@ -10,3 +10,6 @@ En este analisis de la compañia SRL podemos abservar gracias a analisi explorat
 #Igual podemos hacer analisis de las razones por la cuales alguien puede dejar una posicion independiente del salario.
 #Este tipo de analisis es importante implementarse y de una manera visual para poer interpretar de una manera mas clara y directa el comportamiento 
 #de cada uno de los criterios que se tomaron al momento de hacer el analis general.
+
+#VISUALIZACION DEL ANALISIS
+#https://public.tableau.com/app/profile/pabel.paz/viz/Practica0_17342057910570/Dashboard2?publish=yes
